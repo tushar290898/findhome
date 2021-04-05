@@ -1,0 +1,15 @@
+.footer{
+    display: block;
+    text-align: center;
+    border-top: 1px solid lightgray;
+    padding-top:10px ;
+    padding-bottom:10px ;
+}
+
+.footer > h4 {
+    font-weight: 500;
+}
+
+.footer > h5{
+    font-weight: 500;
+}

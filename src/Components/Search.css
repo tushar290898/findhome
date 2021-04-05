@@ -1,0 +1,9 @@
+.Search_section > h1 {
+    font-weight: 600;
+    padding-left: 10px !important;
+    margin-bottom: 10px;
+}
+
+.Search_section{
+    padding-left: 10px;
+}

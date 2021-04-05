@@ -1,0 +1,43 @@
+
+
+.searchCard {
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    padding: 20px;
+}
+
+
+.searchImg{
+    height: 200px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid lightgray;
+}
+
+
+
+
+
+.searchInfo{
+    margin-left: 20px;
+}
+.searchInfo > h2{
+    font-weight: 500;
+}
+
+.searchInfo > h4{
+    margin-top: 100px;
+    margin-left: 700px;
+    font-size: 20px;
+}
+
+.searchInfo > p{
+    margin-top: 30px;
+}
+
+.searchInfo > h2:hover{
+    text-decoration: underline;
+  
+}
